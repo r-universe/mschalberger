@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "ergm.sign"]
 	path = ergm.sign
-	url = https://github.com/cran/ergm.sign
+	url = https://github.com/mschalberger/ergm.sign.statnet
